@@ -1,0 +1,12 @@
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+Me despierto a las 6 am
+Me arreglo para ir al trabajo
+Preparo el desayuno, me cepillo los dientes y salgo a trabajar.
+llego a la obra organizo herramientas
+realizo mis acitividades laborales
+salgo a las 12 del medio dia para almorzar
+regreso a la obra a las 2 pm para terminar mi trabajo
+salgo a las 6 pm para la casa.
+ese es un poco de mi algoritmo diario.
